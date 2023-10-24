@@ -6,4 +6,4 @@
 - Secondary color: `#494368`
 - Font: [`Orbitron`](https://fonts.google.com/specimen/Orbitron)
 
-You are free to use and modify the logo for your Awesome list or other usage.
+You are free to use and modify the logo for your rockstar list or other usage.
